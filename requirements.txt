@@ -1,0 +1,10 @@
+gradio
+pandas
+faiss-cpu
+rank_bm25
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+openai
+pypdf
