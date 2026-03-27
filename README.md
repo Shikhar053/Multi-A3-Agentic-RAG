@@ -135,7 +135,7 @@ is the dataset consistent with documentation
 
 ## Demo
 
-Demo video: Link Coming Soon.
+Demo video: https://youtu.be/eu6rjCHC6FI
 
 ---
 
